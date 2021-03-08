@@ -1,5 +1,5 @@
 # Insertion-Sort-Visualization
-Insertion Sort step by step
+Insertion Sort step by step in JS
 
 Click the left mouse button to make a step
 
