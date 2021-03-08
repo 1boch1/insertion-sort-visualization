@@ -52,7 +52,7 @@ function insSort(n, jj, ii)
   
   //To remove the previous text
 
-  fill(220);
+  fill(235);
   strokeWeight(0)
   circle((j-1)*50+76, 190, 30);
   fill('white');
