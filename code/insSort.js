@@ -6,7 +6,7 @@ var scrH = 500;
 function setup() 
 {
   createCanvas(scrW, scrH);
-  background(220);
+  background(235);
   
   textSize(24)
   textStyle(BOLD);
