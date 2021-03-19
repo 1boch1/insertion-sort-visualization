@@ -152,7 +152,7 @@ function drawArr(ii, jj)
     
     fill('black');
     
-    if(a[(i-50)/50] < 9) text(a[(i-50)/50], i+18, y2-15);
+    if(a[(i-50)/50] <= 9) text(a[(i-50)/50], i+18, y2-15);
     else text(a[(i-50)/50], i+10, y2-15);
   }
 }
