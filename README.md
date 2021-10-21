@@ -1,12 +1,15 @@
-# Insertion-Sort-Visualization
-Insertion Sort step by step.
+# Insertion-sort-visualization
+Insertion Sort step by step
 
-(Made with p5.js)
+This project was made with: 
 
-Click the `LEFT` mouse button to make a step.
+- [p5.js](https://p5js.org)
 
-Demo: https://1boch1.github.io/Insertion-Sort-Visualization/code/index.html
-
-
+## Preview
 
 ![2021-03-08 16_14_48-Window](https://user-images.githubusercontent.com/69087218/110340379-79c68580-8029-11eb-87a3-9f7a6590d452.png)
+
+
+## How to use
+
+- Click the `LEFT` mouse button to make a step
