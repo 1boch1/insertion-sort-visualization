@@ -1,7 +1,7 @@
 # Insertion-sort-visualization
-Insertion Sort step by step
+Insertion sort step by step
 
-This project was made with: 
+## Libraries
 
 - [p5.js](https://p5js.org)
 
